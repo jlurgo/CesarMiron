@@ -1,0 +1,19 @@
+#ratonera{
+    width:100%;
+    height: 100%;
+    position:relative;
+    cursor:url("Imagenes/quesito.png");
+}
+
+#raton{
+    position:absolute;
+    height: 1180px;
+}
+
+#raton #cabeza{
+    position:absolute;
+}
+
+.imagen{
+    height: 1180px;
+}
